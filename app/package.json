@@ -1,0 +1,8 @@
+{
+  "name"    : "mapdesk",
+  "version" : "0.1.0",
+  "main"    : "main.js",
+  "dependencies" : {
+    "jquery"  : "file:js/jquery.js"
+  }
+}

@@ -1,0 +1,22 @@
+.olMapViewport {
+  overflow: visible !important; }
+
+#map {
+  max-height: 100%; }
+
+.toolbar,
+.splashscreen {
+  display: none; }
+
+body {
+  width: 1000px; }
+
+#search-toolbar.toolbar {
+  background: #FFFFFF none repeat 0 0;
+  position: absolute;
+  margin: -110px 0 0 0;
+  top: 100%;
+  left: 10px;
+  display: block; }
+  #search-toolbar.toolbar #search-panel {
+    display: none; }
